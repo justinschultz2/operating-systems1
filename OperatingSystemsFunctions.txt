@@ -6,3 +6,7 @@ Users create a password to go with their username access their profile.
 Another operating system function are automatic updates.
 They allow the device to maintain current software.
 They sometimes happen automatically or can be scheduled on your device.
+
+A third operating system function is a means to establish internet connections.
+It allows users to be able to connect to the internet.
+They allow for mulitple connection options.
