@@ -1,6 +1,6 @@
 One operating system function is user accounts. 
-They enable mulitple people to have profiles on one device. 
-Users create a username to destingusigh themselves.
+They enable multiple people to have profiles on one device. 
+Users create a username to distingusigh themselves.
 Users create a password to go with their username access their profile. 
 
 Another operating system function are automatic updates.
@@ -9,4 +9,4 @@ They sometimes happen automatically or can be scheduled on your device.
 
 A third operating system function is a means to establish internet connections.
 It allows users to be able to connect to the internet.
-They allow for mulitple connection options.
+They allow for multiple connection options.
