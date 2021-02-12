@@ -2,3 +2,7 @@ One operating system function is user accounts.
 They enable mulitple people to have profiles on one device. 
 Users create a username to destingusigh themselves.
 Users create a password to go with their username access their profile. 
+
+Another operating system function are automatic updates.
+They allow the device to maintain current software.
+They sometimes happen automatically or can be scheduled on your device.
