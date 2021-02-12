@@ -1,0 +1,4 @@
+One operating system function is user accounts. 
+They enable mulitple people to have profiles on one device. 
+Users create a username to destingusigh themselves.
+Users create a password to go with their username access their profile. 
